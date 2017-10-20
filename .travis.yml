@@ -37,7 +37,7 @@ install:
   - wget https://github.com/Commit451/android-cmake-installer/releases/download/1.1.0/install-cmake.sh
   - chmod +x install-cmake.sh
   - "./install-cmake.sh"
-  - find ${ANDROID_HOME}cmake/*/bin/cmake
+  - find ${ANDROID_HOME}/cmake/*/bin/cmake
 
 script:
   - ./cdep
