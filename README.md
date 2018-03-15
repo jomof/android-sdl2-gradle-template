@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jomof/android-sdl2-gradle-template.svg?branch=master)](https://travis-ci.org/jomof/android-sdl2-gradle-template)
+[![Build Status](https://travis-ci.org/jomof/cdep-android-studio-SDL2-sample.svg?branch=master)](https://travis-ci.org/jomof/cdep-android-studio-SDL2-sample)
 
 # android-sdl2-gradle-template
 
